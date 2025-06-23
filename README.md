@@ -1,4 +1,5 @@
-This project is a way for me to practice with classes in Java.
+## Description
+This project is a Calculator class where each method is a mathmatical operation that accepts only two inputs. This project is entirely in Java and was created as a way for me to practice this language.
 
 ## Methods
 Here, I've built a simple calculator using the Calculator class. It has the following methods:
